@@ -1,5 +1,5 @@
 {
-  "timestamp": 1625752078,
+  "timestamp": 1626728412,
   "signatures": {
     "anim_overlays": 10624,
     "clientstate_choked_commands": 19760,
@@ -46,7 +46,7 @@
     "dwZoomSensitivityRatioPtr": 14236952,
     "dwbSendPackets": 882378,
     "dwppDirect3DDevice9": 684112,
-    "find_hud_element": 659355424,
+    "find_hud_element": 646444832,
     "force_update_spectator_glow": 3864170,
     "interface_engine_cvar": 256492,
     "is_c4_owner": 3916480,
@@ -57,7 +57,9 @@
     "m_yawClassPtr": 14215800,
     "model_ambient_min": 5816420,
     "set_abs_angles": 1968832,
-    "set_abs_origin": 1968384
+    "set_abs_origin": 1968384,
+    "sv_grenade_trajectory": 14225416,
+    "sv_skyname": 2414865547
   },
   "netvars": {
     "cs_gamerules_data": 0,
